@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Robotics & SLAM Researcher</a>
+subtitle: <a href='#'>LiDAR-IMU SLAM Researcher</a>
 
 profile:
   align: right
@@ -21,26 +21,16 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher focusing on **LiDAR-IMU SLAM** and **3D perception** for robotics applications. My research interests include:
-
-- **LiDAR-Inertial Odometry**: Tight-coupled optimization for robust state estimation
-- **Voxel-based Mapping**: Efficient 3D map representation using voxel maps
-- **Challenging Environments**: SLAM in degenerate scenarios (corridors, staircases, etc.)
-- **Real-time Systems**: Efficient algorithms for on-board robotic applications
-
-I am the author of **[VINA-SLAM](/projects/vina-slam)**, a voxel-based inertial and normal-aligned LiDAR-IMU SLAM system designed for challenging environments with sparse geometric structures.
+I am a researcher focusing on **LiDAR-IMU SLAM** and **3D perception** for robotics applications. I am the author of **[VINA-SLAM](/projects/vina-slam)**, a voxel-based inertial and normal-aligned LiDAR-IMU SLAM system designed for challenging environments.
 
 ## Research Interests
 
-- Simultaneous Localization and Mapping (SLAM)
-- LiDAR-Inertial Odometry (LIO)
-- 3D Point Cloud Processing
-- Factor Graph Optimization
-- Robot State Estimation
-
-Feel free to check out my [GitHub](https://github.com/SheepYang666) for open-source projects and code.
+- **LiDAR-Inertial Odometry**: Tight-coupled optimization for robust state estimation
+- **Voxel-based Mapping**: Efficient 3D map representation using voxel maps
+- **Challenging Environments**: SLAM in degenerate scenarios (corridors, staircases)
+- **Real-time Systems**: Efficient algorithms for on-board robotic applications
