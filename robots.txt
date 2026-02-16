@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SheepYang666.github.io/sitemap.xml
+Sitemap: https://sheepyang666.github.io/sitemap.xml
